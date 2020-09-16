@@ -1,0 +1,2 @@
+# SalesTax
+Refactorering og metoder
